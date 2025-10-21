@@ -15,7 +15,7 @@ Metodo Sort Selection en Java y Python
 
 Salida de Python
  
-![alt text](image.png)
+![alt text](image-2.png)
 
 
 

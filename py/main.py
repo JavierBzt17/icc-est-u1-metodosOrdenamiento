@@ -12,7 +12,7 @@ def main():
     print("Ordenado Ascendente", numeros)
 
     selection.sort_descendente(numeros)
-    print("Ordenado +Descendente", numeros)
+    print("Ordenado Descendente", numeros)
 
 if __name__=="__main__":
     main()
