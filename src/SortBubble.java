@@ -2,7 +2,8 @@ public class SortBubble {
 
 
 
-    public static void SortBubble (int []numeros){
+    public static void SortBubble (int[] numeros){
+        
     }
 
     public void sortAscendente (int[] numeros){
